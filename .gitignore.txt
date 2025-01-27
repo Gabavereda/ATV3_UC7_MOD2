@@ -1,9 +1,11 @@
 # Arquivos gerados pelo NetBeans
 nbproject/private/
+
+# Ignorar arquivos gerados pelo NetBeans
 build/
-nbbuild/
 dist/
-nbdist/
+*.properties
+*.jar
 
 
 # Arquivos gerados pelo Spring Boot
